@@ -35,6 +35,7 @@ global.ownername = '🦄드림 가이 Mentalcase'
 global.ownerNumber = ["916909137213@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtu.be/L_SIk59QeAU"
+global.wagc = "https://chat.whatsapp.com/Dc2qyVeK8JbJq8Gr3U1pKf"
 global.themeemoji = '🪀'
 global.wm = "mental Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
