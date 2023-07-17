@@ -21,27 +21,27 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['27764272140'] //ur owner number
-global.ownernomer = "27764272140" //ur owner number2
-global.ownername = "mentalcase" //ur owner name
-global.ytname = "mentalcase //ur yt chanel name
+global.owner = ['916909137213'] //ur owner number
+global.ownernomer = "916909137213" //ur owner number2
+global.ownername = "🦄Dream Guy Xeon" //ur owner name
+global.ytname = "YT: Xeon" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "South africa, Pretoria" //ur location
+global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = "Mêñ†ål¢å§êBot"
-global.ownernumber = '27764272140'
-global.ownername = 'Mêñ†ål¢å§ê'
-global.ownerNumber = ["27764272140@s.whatsapp.net"]
-global.ownerweb = "https://youtube.com/mentalcase"
+global.botname = "Cheems Bot MD V8"
+global.ownernumber = '916909137213'
+global.ownername = '🦄드림 가이 Xeon'
+global.ownerNumber = ["916909137213@s.whatsapp.net"]
+global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtu.be/L_SIk59QeAU"
 global.wagc = "https://chat.whatsapp.com/Dc2qyVeK8JbJq8Gr3U1pKH"
 global.themeemoji = '🪀'
-global.wm = "𝙈𝙚𝙣𝙩𝙖𝙡𝙘𝙖𝙨𝙚 Bot Inc."
-global.botscript = 'https://github.com/idk' //script link
-global.packname = "Sticker By 𝙈𝙚𝙣𝙩𝙖𝙡𝙘𝙖𝙨𝙚"
-global.author = "Mentalcase\n\n+27764272140"
-global.creator = "27764272140@s.whatsapp.net"
+global.wm = "Xeon Bot Inc."
+global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
+global.packname = "Sticker By"
+global.author = "🦄드림 가이 Xeon\n\n+916909137213"
+global.creator = "916909137213@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
